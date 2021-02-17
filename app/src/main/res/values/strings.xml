@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">H7_5</string>
+    <string name="text">Text...</string>
+    <string name="file_name">File name...</string>
+    <string name="load">Load</string>
+    <string name="read">Read</string>
+</resources>
